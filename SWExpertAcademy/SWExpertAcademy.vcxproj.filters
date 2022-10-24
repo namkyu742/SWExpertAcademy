@@ -20,6 +20,7 @@
     <Text Include="inputs\input_1989.txt" />
     <Text Include="inputs\input_1983.txt" />
     <Text Include="inputs\input_1986.txt" />
+    <Text Include="inputs\input_1945.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />

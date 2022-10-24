@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="inputs\input_1945.txt" />
     <Text Include="inputs\input_1983.txt" />
     <Text Include="inputs\input_1986.txt" />
     <Text Include="inputs\input_1989.txt" />
