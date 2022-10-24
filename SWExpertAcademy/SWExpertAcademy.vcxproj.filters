@@ -17,13 +17,11 @@
   <ItemGroup>
     <Text Include="inputs\input_1926.txt" />
     <Text Include="inputs\input_2007.txt" />
+    <Text Include="inputs\input_1989.txt" />
+    <Text Include="inputs\input_1983.txt" />
+    <Text Include="inputs\input_1986.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D2\2007_패턴 마디의 길이.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
