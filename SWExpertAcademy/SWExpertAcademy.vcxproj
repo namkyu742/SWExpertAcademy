@@ -128,6 +128,8 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <Text Include="inputs\input_1945.txt" />
+    <Text Include="inputs\input_1948.txt" />
+    <Text Include="inputs\input_1954.txt" />
     <Text Include="inputs\input_1983.txt" />
     <Text Include="inputs\input_1986.txt" />
     <Text Include="inputs\input_1989.txt" />
@@ -136,6 +138,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D2\1954_달팽이 숫자.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
