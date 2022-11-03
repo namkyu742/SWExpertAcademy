@@ -129,6 +129,8 @@
   <ItemGroup>
     <Text Include="inputs\input_1285.txt" />
     <Text Include="inputs\input_1288.txt" />
+    <Text Include="inputs\input_14555.txt" />
+    <Text Include="inputs\input_14692.txt" />
     <Text Include="inputs\input_1928.txt" />
     <Text Include="inputs\input_1940.txt" />
     <Text Include="inputs\input_1945.txt" />
@@ -144,6 +146,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3\14555_공과 잡초.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

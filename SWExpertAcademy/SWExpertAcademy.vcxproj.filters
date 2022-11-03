@@ -29,8 +29,15 @@
     <Text Include="inputs\input_1288.txt" />
     <Text Include="inputs\input_1928.txt" />
     <Text Include="inputs\input_1940.txt" />
+    <Text Include="inputs\input_14692.txt" />
+    <Text Include="inputs\input_14555.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3\14555_공과 잡초.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
