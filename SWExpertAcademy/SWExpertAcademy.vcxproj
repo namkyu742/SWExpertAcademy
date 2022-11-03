@@ -127,20 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="inputs\input_1285.txt" />
+    <Text Include="inputs\input_1288.txt" />
+    <Text Include="inputs\input_1928.txt" />
+    <Text Include="inputs\input_1940.txt" />
     <Text Include="inputs\input_1945.txt" />
     <Text Include="inputs\input_1948.txt" />
     <Text Include="inputs\input_1954.txt" />
     <Text Include="inputs\input_1983.txt" />
+    <Text Include="inputs\input_1984.txt" />
     <Text Include="inputs\input_1986.txt" />
     <Text Include="inputs\input_1989.txt" />
     <Text Include="inputs\input_1926.txt" />
     <Text Include="inputs\input_2007.txt" />
+    <Text Include="inputs\input_1284.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D2\1954_달팽이 숫자.cpp" />
+    <ClCompile Include="D2\1928_Base64 Decoder.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
