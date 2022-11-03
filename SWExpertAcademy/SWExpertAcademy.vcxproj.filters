@@ -33,9 +33,4 @@
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D2\1928_Base64 Decoder.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-  </ItemGroup>
 </Project>

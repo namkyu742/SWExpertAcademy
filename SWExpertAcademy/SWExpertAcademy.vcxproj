@@ -145,9 +145,6 @@
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D2\1928_Base64 Decoder.cpp" />
-  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
