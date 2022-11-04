@@ -129,6 +129,8 @@
   <ItemGroup>
     <Text Include="inputs\input_1285.txt" />
     <Text Include="inputs\input_1288.txt" />
+    <Text Include="inputs\input_13547.txt" />
+    <Text Include="inputs\input_14178.txt" />
     <Text Include="inputs\input_14555.txt" />
     <Text Include="inputs\input_14692.txt" />
     <Text Include="inputs\input_1928.txt" />
@@ -143,12 +145,13 @@
     <Text Include="inputs\input_1926.txt" />
     <Text Include="inputs\input_2007.txt" />
     <Text Include="inputs\input_1284.txt" />
+    <Text Include="inputs\input_13218.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D3\14555_공과 잡초.cpp" />
+    <ClCompile Include="D3\14178_1차원 정원.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
