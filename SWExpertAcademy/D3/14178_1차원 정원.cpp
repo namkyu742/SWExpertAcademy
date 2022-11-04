@@ -1,4 +1,5 @@
 #include <iostream>
+#include <cmath>
 
 using namespace std;
 
@@ -14,6 +15,9 @@ int main()
 		int N, D;
 		cin >> N >> D;
 
+		int a = 2 * D + 1;
+		double temp = (double)N / a;
+		result = ceil(temp);
 
 
 		cout << "#" << tc << " " << result << "\n";
@@ -21,3 +25,10 @@ int main()
 
 	return 0;
 }
+
+/*
+
+#1 2
+#2 1
+#3 15
+*/

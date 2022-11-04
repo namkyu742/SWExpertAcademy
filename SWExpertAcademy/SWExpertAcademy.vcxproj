@@ -127,6 +127,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="inputs\input_11856.txt" />
+    <Text Include="inputs\input_12221.txt" />
+    <Text Include="inputs\input_12368.txt" />
     <Text Include="inputs\input_1285.txt" />
     <Text Include="inputs\input_1288.txt" />
     <Text Include="inputs\input_13547.txt" />
@@ -149,9 +152,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D3\14178_1차원 정원.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
