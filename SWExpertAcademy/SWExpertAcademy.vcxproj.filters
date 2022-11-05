@@ -37,6 +37,11 @@
     <Text Include="inputs\input_12368.txt" />
     <Text Include="inputs\input_12221.txt" />
     <Text Include="inputs\input_11856.txt" />
+    <Text Include="inputs\input_13229.txt" />
+    <Text Include="inputs\input_11736.txt" />
+    <Text Include="inputs\input_11688.txt" />
+    <Text Include="inputs\input_10804.txt" />
+    <Text Include="inputs\input_10912.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />

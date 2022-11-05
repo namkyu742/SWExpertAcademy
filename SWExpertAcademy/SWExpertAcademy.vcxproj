@@ -127,11 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="inputs\input_10804.txt" />
+    <Text Include="inputs\input_10912.txt" />
+    <Text Include="inputs\input_11688.txt" />
+    <Text Include="inputs\input_11736.txt" />
     <Text Include="inputs\input_11856.txt" />
     <Text Include="inputs\input_12221.txt" />
     <Text Include="inputs\input_12368.txt" />
     <Text Include="inputs\input_1285.txt" />
     <Text Include="inputs\input_1288.txt" />
+    <Text Include="inputs\input_13229.txt" />
     <Text Include="inputs\input_13547.txt" />
     <Text Include="inputs\input_14178.txt" />
     <Text Include="inputs\input_14555.txt" />
