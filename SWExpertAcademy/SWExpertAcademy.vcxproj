@@ -127,6 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <Text Include="inputs\input_10505.txt" />
     <Text Include="inputs\input_10804.txt" />
     <Text Include="inputs\input_10912.txt" />
     <Text Include="inputs\input_11688.txt" />
@@ -157,6 +158,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3\10200_구독자 전쟁.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
