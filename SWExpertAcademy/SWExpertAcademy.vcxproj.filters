@@ -43,13 +43,11 @@
     <Text Include="inputs\input_10804.txt" />
     <Text Include="inputs\input_10912.txt" />
     <Text Include="inputs\input_10505.txt" />
+    <Text Include="inputs\input_10200.txt" />
+    <Text Include="inputs\input_9997.txt" />
+    <Text Include="inputs\input_1217.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClCompile Include="D3\10200_구독자 전쟁.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
