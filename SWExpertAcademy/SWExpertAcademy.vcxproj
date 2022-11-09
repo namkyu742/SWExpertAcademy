@@ -157,10 +157,16 @@
     <Text Include="inputs\input_2007.txt" />
     <Text Include="inputs\input_1284.txt" />
     <Text Include="inputs\input_13218.txt" />
+    <Text Include="inputs\input_3431.txt" />
+    <Text Include="inputs\input_4406.txt" />
+    <Text Include="inputs\input_6730.txt" />
     <Text Include="inputs\input_9997.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="D3\1289_원재의 메모리 복구하기.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
