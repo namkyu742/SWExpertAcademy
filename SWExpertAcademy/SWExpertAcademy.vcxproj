@@ -139,6 +139,7 @@
     <Text Include="inputs\input_12368.txt" />
     <Text Include="inputs\input_1285.txt" />
     <Text Include="inputs\input_1288.txt" />
+    <Text Include="inputs\input_1289.txt" />
     <Text Include="inputs\input_13229.txt" />
     <Text Include="inputs\input_13547.txt" />
     <Text Include="inputs\input_14178.txt" />
@@ -160,13 +161,14 @@
     <Text Include="inputs\input_3431.txt" />
     <Text Include="inputs\input_4406.txt" />
     <Text Include="inputs\input_6730.txt" />
+    <Text Include="inputs\input_9317.txt" />
     <Text Include="inputs\input_9997.txt" />
   </ItemGroup>
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="D3\1289_원재의 메모리 복구하기.cpp" />
+    <ClCompile Include="1215_[SW 문제해결 기본] 3일차 - 회문1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
