@@ -167,6 +167,9 @@
   <ItemGroup>
     <None Include="inputs\input_2005.txt" />
   </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="8673_코딩 토너먼트1.cpp" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
